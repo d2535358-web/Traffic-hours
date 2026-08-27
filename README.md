@@ -1,3 +1,23 @@
+
+
+
+# Traffic Volume Prediction Using Machine Learning
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/d2535358-web/Traffic-hours/blob/main/Traffic_Volume_Prediction.ipynb)
+
+## Project Description
+
+Traffic Volume Prediction using Machine Learning.
+
+This project uses:
+
+- Linear Regression
+- Random Forest Regressor
+- Gradient Boosting Regressor
+
+The project predicts traffic volume and also classifies traffic conditions into Low, Medium, and High.
+
+
 # Traffic Volume Prediction Using Machine Learning
 
 ## Student Details
